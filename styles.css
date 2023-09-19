@@ -1,0 +1,99 @@
+.delete-button {
+    padding: 0px 6px;
+    margin: 2px 0px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    border: 2px solid rgb(226,50,74);   
+}
+
+.main-li {
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px;
+    padding: 1%;
+    background-color: #e9e9e9;
+    border-radius: 5px;
+    column-gap: 10px;
+}
+
+.page-storage {
+    margin: 5px;
+}
+
+.odd {
+    background-color: rgba(229, 176, 253, 0.753)!important;
+}
+
+.even {
+    background-color: rgb(81, 255, 0)!important;
+}
+
+.pages-task {
+    margin: 5px;
+}
+
+.span-text {
+    word-wrap: break-word;
+    box-sizing: border-box;
+}
+
+.text {
+    margin-top: 5px;
+}
+
+.text-add {
+    margin: 0px 15px;
+    height: 35px;
+}
+
+.add-button {
+    background-color: #32CD32;
+    border-color: #32CD32;
+    margin: 0 auto;  
+    font-weight: bold;
+}
+
+.text-add {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.main-input {
+    text-align: center;
+    width: auto;
+}
+
+.wrapper {
+    margin: 5px auto;
+    width: 35%;
+    min-width: 322px;
+    text-align: center;
+    border: 2px solid rgba(255, 153, 0, 0.753);
+    background: linear-gradient(rgb(255, 147, 165),rgba(255, 153, 0, 0.753));
+    border-radius: 7px;
+    box-shadow: 10px 10px 15px rgb(255, 146, 164);
+}
+
+.tabs {  
+    margin: 10px 15px;
+}
+
+.main-list {
+    border-radius: 10px;    
+    list-style: none;
+    padding-inline-start: 0px;
+    padding: 1px;
+    margin: 0 15px;
+    background-color: white;
+    border: 2px solid rgba(255, 153, 0, 0.795);
+}
+
+.div-check-all {
+    margin-top: 10px
+}
+
+.tabs {
+    margin-bottom: 10px;
+}
